@@ -1,7 +1,8 @@
 # main links
 main:
   - title: "CV"
-    url: /cv/
+    url: /cv/ 
+  - title: "Gallery"
     url: /gallery/
   - title: "Blog"
     url: /blog/
